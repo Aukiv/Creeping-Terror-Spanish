@@ -21,6 +21,6 @@ Traducción no oficial de Creeping Terror para Nintendo 3DS.
 
 -------------------------------------------
 
-**¿Cuando se podrá jugar con la traducción?**
+**¿Cuándo se podrá jugar con la traducción?**
 
 -No hay fecha de lanzamiento.
