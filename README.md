@@ -4,7 +4,9 @@ Traducción no oficial de Creeping Terror para Nintendo 3DS.
 
 **Esta es una traducción totalmente gratuita.**
 
-**No es oficial ni apoyada por la desarrolladora Nikkatsu Corporation ni por Aksys Games.**
+**No es oficial ni apoyada por la desarrolladora Nikkatsu Corporation ni por mebius.**
+
+**Tampoco es apoyada por la distribuidora Aksys Games**
 
 **No soy responsable de ningún daño.**
 -------------------------------------------
