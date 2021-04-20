@@ -27,12 +27,13 @@ Traducción no oficial de Creeping Terror para Nintendo 3DS.
 
 -------------------------------------------
 Las capturas no representan a la traducción final.
-Etapa 1
+Primera etapa.
+Nesesitaré un corrector para la segunda etapa, si está interesado contacte conmigo vía Twitter.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/YtKHBbJ/2021-04-20-01-56-09-873-top.png" alt="2021-04-20-01-56-09-873-top" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/KjcWmTq/2021-04-20-01-56-09-873-bot.png" alt="2021-04-20-01-56-09-873-bot" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/7yBHtMJ/2021-04-20-01-58-40-240-bot.png" alt="2021-04-20-01-58-40-240-bot" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dKc9PTy/2021-04-20-01-56-41-947-bot.png" alt="2021-04-20-01-56-41-947-bot" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Wtc8qsP/2021-04-20-02-00-05-061-top.png" alt="2021-04-20-02-00-05-061-top" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/FVn1F0q/2021-04-20-01-59-32-723-top.png" alt="2021-04-20-01-59-32-723-top" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/vvdK60W/2021-04-20-02-00-29-354-top.png" alt="2021-04-20-02-00-29-354-top" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/YtKHBbJ/2021-04-20-01-56-09-873-top.png" alt="2021-04-20-01-56-09-873-top" border="0"></a>
