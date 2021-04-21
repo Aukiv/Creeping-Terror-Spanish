@@ -34,7 +34,7 @@ Las capturas no representan a la traducción final.
 
 Primera etapa.
 
-Nesesitaré un corrector para la segunda etapa, si está interesado contacte conmigo vía Twitter.
+Necesitaré un corrector para la segunda etapa, si está interesado contacte conmigo vía Twitter.
 
 <img src="https://i.ibb.co/KjcWmTq/2021-04-20-01-56-09-873-bot.png" alt="2021-04-20-01-56-09-873-bot" border="0">
 <img src="https://i.ibb.co/7yBHtMJ/2021-04-20-01-58-40-240-bot.png" alt="2021-04-20-01-58-40-240-bot" border="0">
