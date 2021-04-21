@@ -45,7 +45,7 @@ Necesitaré un corrector para la segunda etapa, si está interesado contacte con
 <img src="https://i.ibb.co/4p5m2tG/2021-04-21-15-18-19-363-top.png" alt="2021-04-21-15-18-19-363-top" border="0"></a>
 <img src="https://i.ibb.co/SmJzT4P/2021-04-21-15-19-36-504-bot.png" alt="2021-04-21-15-19-36-504-bot" border="0"></a>
 <img src="https://i.ibb.co/1dXqd7C/2021-04-21-15-19-36-504-top.png" alt="2021-04-21-15-19-36-504-top" border="0"></a>
-<img src="https://i.ibb.co/r4sr7xr/2021-04-21-15-20-48-912-bot.png" alt="2021-04-21-15-20-48-912-bot" border="0"></a>
+<img src="https://i.ibb.co/r4sr7xr/2021-04-21-15-20-48-912-bot.png" alt="2021-04-21-15-20-48-912-bot" border="0"></a> Archivos*
 <img src="https://i.ibb.co/k0syQvM/2021-04-21-15-20-48-912-top.png" alt="2021-04-21-15-20-48-912-top" border="0"></a>
 <img src="https://i.ibb.co/nBxM8SF/2021-04-21-15-22-22-414-top.png" alt="2021-04-21-15-22-22-414-top" border="0"></a>
 <img src="https://i.ibb.co/x8ff1Z9/2021-04-21-15-23-02-346-top.png" alt="2021-04-21-15-23-02-346-top" border="0"></a>
