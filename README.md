@@ -27,7 +27,7 @@ Traducción no oficial de Creeping Terror para Nintendo 3DS.
 
 -No hay fecha de lanzamiento.
 
-<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%2399CC66" alt="button" border="0">
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=35&leftFill=%2393DB70" alt="button" border="0">
 
 -------------------------------------------
 Las capturas no representan a la traducción final.
