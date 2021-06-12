@@ -30,7 +30,10 @@ https://discord.gg/YQs9Dtbh4k
 
 -No hay fecha de lanzamiento.
 
-<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=93db70" alt="button" border="0">
+Final A
+
+
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=93db70" border="0">
 Todos los diálogos traducidos a falta de una corrección.
 
 -------------------------------------------
