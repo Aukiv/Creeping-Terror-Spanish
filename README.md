@@ -30,11 +30,26 @@ https://discord.gg/YQs9Dtbh4k
 
 -No hay fecha de lanzamiento.
 
-Final A
+****Final A
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
+
+****Final B
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
+****Final C
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
+****Final D
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
+
+****Diarios
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=93db70" border="0">
+
+****Gráficos
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=93db70" border="0">
+
+****Corrección
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=93db70" border="0">
 
 
-<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=70&leftFill=93db70" border="0">
-Todos los diálogos traducidos a falta de una corrección.
 
 -------------------------------------------
 Las capturas no representan a la traducción final.
