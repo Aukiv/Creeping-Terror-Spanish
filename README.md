@@ -30,10 +30,10 @@ https://discord.gg/YQs9Dtbh4k
 
 -No hay fecha de lanzamiento.
 
-****Final A
+**Final A
 <img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
 
-****Final B
+****Final B****
 <img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
 ****Final C
 <img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
