@@ -36,7 +36,7 @@ https://discord.gg/YQs9Dtbh4k
 
 ****Diarios****
 
-<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=93db70" border="0">
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
 
 ****Gráficos****
 
