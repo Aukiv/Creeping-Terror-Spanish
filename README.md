@@ -11,7 +11,7 @@ Traducción no oficial de Creeping Terror para Nintendo 3DS.
 **No soy responsable de ningún daño.**
 -------------------------------------------
 
-**La traducción se dividirá en 4 etapas.**
+**La traducción se dividirá en 4 fases.**
 
 **1>** Se realizará una traducción base en la que consiste en encontrar problemas que puedan bloquear la jugabilidad.
 
@@ -51,9 +51,9 @@ https://discord.gg/YQs9Dtbh4k
 -------------------------------------------
 Las capturas no representan a la traducción final.
 
-Primera etapa.
+Primera fase.
 
-Necesitaré un corrector para la segunda etapa, si está interesado contacte conmigo vía Twitter.
+Necesitaré un corrector para la segunda fase, si está interesado contacte conmigo vía Twitter.
 
 <img src="https://i.ibb.co/vq0bjnL/2021-04-20-01-56-09-873-top.png" alt="2021-04-20-01-56-09-873-top" border="0"></a>
 <img src="https://i.ibb.co/MVL1C50/2021-04-20-01-59-32-723-top.png" alt="2021-04-20-01-59-32-723-top" border="0"></a>
