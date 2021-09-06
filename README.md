@@ -55,7 +55,11 @@ Primera fase.
 
 Necesitaré un corrector para la segunda fase, si está interesado contacte conmigo vía Twitter.
 
-<img src="https://i.ibb.co/vq0bjnL/2021-04-20-01-56-09-873-top.png" alt="2021-04-20-01-56-09-873-top" border="0"></a>
-<img src="https://i.ibb.co/MVL1C50/2021-04-20-01-59-32-723-top.png" alt="2021-04-20-01-59-32-723-top" border="0"></a>
-<img src="https://i.ibb.co/yF63YNZ/2021-04-20-02-00-05-061-top.png" alt="2021-04-20-02-00-05-061-top" border="0"></a>
-<img src="https://i.ibb.co/yFPbdmQ/2021-04-21-15-17-18-576-bot.png" alt="2021-04-21-15-17-18-576-bot" border="0"></a>
+<img src="https://i.ibb.co/yFPbdmQ/2021-04-21-15-17-18-576-bot.png" border="0"></a>
+<img src="https://i.ibb.co/VVxx4SV/2021-09-06-23-51-46-322-top.png" border="0"></a>
+<img src="https://i.ibb.co/T4tFpDW/2021-09-06-23-54-57-285-top.png" border="0"></a>
+<img src="https://i.ibb.co/TtJ88WD/2021-09-06-23-55-37-728-top.png" border="0"></a>
+<img src="https://i.ibb.co/vq0bjnL/2021-04-20-01-56-09-873-top.png" border="0"></a>
+<img src="https://i.ibb.co/c8R7ZyJ/2021-09-06-23-56-48-500-top.png" border="0"></a>
+
+
