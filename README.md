@@ -44,7 +44,7 @@ https://discord.gg/YQs9Dtbh4k
 
 ****Corrección****
 
-<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=93db70" border="0">
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=93db70" border="0">
 
 
 
