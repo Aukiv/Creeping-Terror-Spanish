@@ -1,4 +1,4 @@
-# CREEPING TERROR 3DS EN ESPAÑOL
+# CREEPING TERROR EN ESPAÑOL PARA 3DS/PC
 Traducción no oficial de Creeping Terror para Nintendo 3DS.
 -------------------------------------------
 
@@ -30,6 +30,8 @@ https://discord.gg/YQs9Dtbh4k
 
 -No hay fecha de lanzamiento.
 
+**TRADUCCIÓN 3DS:**
+
 ****Final A, B, C, D****
 
 <img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
@@ -46,7 +48,9 @@ https://discord.gg/YQs9Dtbh4k
 
 <img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=93db70" border="0">
 
+**TRADUCCIÓN PC:**
 
+No disponible de momento.
 
 -------------------------------------------
 Las capturas no representan a la traducción final.
