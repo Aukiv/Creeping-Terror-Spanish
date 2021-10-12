@@ -1,5 +1,5 @@
 # CREEPING TERROR EN ESPAÑOL PARA 3DS/PC
-Traducción no oficial de Creeping Terror para Nintendo 3DS.
+Traducción no oficial de Creeping Terror para Nintendo 3DS y PC (Steam).
 -------------------------------------------
 
 **Esta es una traducción totalmente gratuita.**
