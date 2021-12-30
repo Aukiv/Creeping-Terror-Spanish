@@ -41,8 +41,9 @@ https://discord.gg/YQs9Dtbh4k
 <img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
 
 ****Gráficos****
-
-<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=50&leftFill=93db70" border="0">
+*Nota
+(Algunas cosas están encriptadas, lo cual quedarán en inglés)
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=95&leftFill=%2399CC66" border="0">
 
 ****Corrección****
 
