@@ -1,25 +1,23 @@
 # CREEPING TERROR EN ESPAÑOL PARA 3DS/PC
-Traducción no oficial de Creeping Terror para Nintendo 3DS y PC (Steam).
+Traducción no oficial de Creeping Terror para Nintendo 3DS.
 -------------------------------------------
 
-**Esta es una traducción totalmente gratuita.**
+**Esta traducción es totalmente gratuita**
 
-**No es oficial ni apoyada por la desarrolladora Nikkatsu Corporation ni por mebius.**
+**No es oficial, por lo tanto, ni es apoyada por la desarrolladora Nikkatsu Corporation, ni por mebius, ni por la distribuidora Aksys Games**
 
-**Tampoco es apoyada por la distribuidora Aksys Games**
-
-**No soy responsable de ningún daño.**
+**No me hago responsable de ningún daño que pueda causar**
 -------------------------------------------
 
-**La traducción se dividirá en 4 fases.**
+**La traducción se dividirá en 4 fases**
 
-**1>** Se realizará una traducción base en la que consiste en encontrar problemas que puedan bloquear la jugabilidad.
+**1>** Se realizará una traducción base en la que se identifiquen problemas, que bloqueen la jugabilidad.
 
-**2>** Una vez finalizada la traducción base, se realizará una corrección de esta misma.
+**2>** Una vez finalizada la traducción base, se llevará a cabo una revisión de esta misma.
 
-**3>** Ya finalizada la corrección, se realizará un testeo para resolver cualquier problema que se pueda presentar durante la jugabilidad.
+**3>** Finalizada la revisión, se testeará para resolver cualquier problema que se pueda presentar durante la jugabilidad.
 
-**4>** Por último, se procederá a una comprobación que consiste en un último testeo para así resolver cualquier problema que se presente.
+**4>** Se realizará una comprobación final, para así preparar su lanzamiento.
 
 -------------------------------------------
 
@@ -32,7 +30,7 @@ https://discord.gg/YQs9Dtbh4k
 
 **TRADUCCIÓN 3DS:**
 
-****Final A, B, C, D****
+****Finales****
 
 <img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=93db70" border="0">
 
@@ -43,24 +41,21 @@ https://discord.gg/YQs9Dtbh4k
 ****Gráficos****
 
 _Nota
-(Algunas cosas están encriptadas, lo cual quedarán en inglés)_
+(Algunos archivos están encriptados, intentaré buscar una solución)_
 
 <img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=95&leftFill=%2399CC66" border="0">
 
 ****Corrección****
 
-<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=93db70" border="0">
+09/05/2022
+#La corrección avanza muy lentamente.
 
-**TRADUCCIÓN PC:**
+<img src="http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%23FF6633" border="0">
 
-No disponible de momento.
+#La traducción de la versión Steam, queda cancelada.
 
 -------------------------------------------
-Las capturas no representan a la traducción final.
-
-Primera fase.
-
-Necesitaré un corrector para la segunda fase, si está interesado contacte conmigo vía Twitter.
+Las capturas corresponden a la traducción final.
 
 <img src="https://i.ibb.co/yFPbdmQ/2021-04-21-15-17-18-576-bot.png" border="0"></a>
 <img src="https://i.ibb.co/VVxx4SV/2021-09-06-23-51-46-322-top.png" border="0"></a>
@@ -68,5 +63,4 @@ Necesitaré un corrector para la segunda fase, si está interesado contacte conm
 <img src="https://i.ibb.co/TtJ88WD/2021-09-06-23-55-37-728-top.png" border="0"></a>
 <img src="https://i.ibb.co/vq0bjnL/2021-04-20-01-56-09-873-top.png" border="0"></a>
 <img src="https://i.ibb.co/c8R7ZyJ/2021-09-06-23-56-48-500-top.png" border="0"></a>
-
 
