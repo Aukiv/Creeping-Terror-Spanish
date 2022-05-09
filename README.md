@@ -55,7 +55,7 @@ _Nota
 #La traducción de la versión Steam, queda cancelada.
 
 -------------------------------------------
-Las capturas corresponden a la traducción final.
+Las capturas no corresponden a la traducción final.
 
 <img src="https://i.ibb.co/yFPbdmQ/2021-04-21-15-17-18-576-bot.png" border="0"></a>
 <img src="https://i.ibb.co/VVxx4SV/2021-09-06-23-51-46-322-top.png" border="0"></a>
